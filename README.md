@@ -1,9 +1,15 @@
 # Beauty-and-Salon-Website
 This is Beauty-and-Salon-Website. I am make Following Section in this Website.
 
-+ **PORTFOLIO**
++ **Home**
 
-+ **ABOUT**
++ **About Me**
+
++ **Our Services**
+
++ **Gallery**
+
++ **Testimonial**
 
 + **CONTACT**
 
